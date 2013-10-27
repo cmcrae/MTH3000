@@ -12,6 +12,8 @@ Interactive simulation of the 2D Ising model using the Metropolis algorithm.  A 
 ### MetropolisHastings
 Python implementation of both Metropolis and Metropolis-Hastings algorithm. The example code plots 200 iterations of the (Gaussian) random walk Metropolis sampler under a variety of initial configurations and step sizes. A mixture of two bivariate Normal distributions is used as the target distribution.
 
+
+### References
 1. Neal, R. M. (2000). Markov chain sampling methods for Dirichlet process mixture models. Journal of computational and graphical statistics, 9(2), 249-265.
 2. Görür, D., & Rasmussen, C. E. (2010). Dirichlet process Gaussian mixture models: Choice of the base distribution. Journal of Computer Science and Technology, 25(4), 653-664.
 3. MacKay, D. J. (2003). Information theory, inference and learning algorithms. Cambridge university press.
