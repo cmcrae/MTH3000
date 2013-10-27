@@ -1,0 +1,55 @@
+# OS X generated files #
+####################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled source #
+#################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyo
+*.pyc
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+###################
+*.log
+*.sql
+*.sqlite
+
+# Sublime Text project files #
+#######################
+*.sublime-project
+*.sublime-workspace
+
+# Auxillary latex files #
+##################
+*.key
+*.aux
+*.fdb*
+*.nav
+*.snm
+*.fls
+*.out
+
+# Directories #
+############
