@@ -1,7 +1,7 @@
 ## Code Descriptions
 
 ### DPGMM 
-C implementation of the Dirichlet Process Gaussian Mixture Model for the old faithful geyser dataset. See [1] for details regarding MCMC sampling of Dirichlet process mixture models. Information about Dirichlet Process Gaussian Mixture Models can be found in [2].
+C implementation of the Dirichlet process Gaussian mixture model(DPGMM) for the old faithful geyser dataset. See [1] for details regarding MCMC sampling of Dirichlet process mixture models. Information about Dirichlet process Gaussian mixture models can be found in [2].
 
 ### IsingModel
 Interactive simulation of the 2D Ising model using the Metropolis algorithm.  A derivation of the Metropolis sampler for the Ising model can be found in Chapter IV Section 31 of [3].
